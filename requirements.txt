@@ -12,3 +12,5 @@ opencv-python
 jsonpickle
 tqdm
 gunicorn
+tf-estimator-nightly==2.10.0.dev2022042308
+tf-nightly-gpu==2.10.0.dev20220423
